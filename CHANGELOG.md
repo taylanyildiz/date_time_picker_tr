@@ -1,3 +1,4 @@
-## 0.0.1
+## [0.0.1] - Relase 
 
-* Date Time Picker on desktop tr languagegi
+## [0.1.1] - Date Time Picker on desktop tr language
+
