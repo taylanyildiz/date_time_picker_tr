@@ -1,7 +1,6 @@
 name: date_time_picker_tr
 description: Date Time Picker on desktop tr language.
 version: 0.0.1
-author: Taylan Yildiz<taylanyildz@outlook.com>
 homepage: https://github.com/taylanyildiz/date_time_picker_tr.git
 
 environment:
