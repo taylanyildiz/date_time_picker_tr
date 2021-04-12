@@ -5,6 +5,41 @@ A new Flutter package project.
 ## Screenshots
 <img src="ss1.png" height="300em"/>
 
+## Usage
+
+[Example](https://github.com/iampawan/Flutter-Walkthrough/blob/master/example/example_app.dart)
+
+To use this package :
+
+* add the dependency to your [pubspec.yaml](https://github.com/iampawan/Flutter-Walkthrough/blob/master/pubspec.yaml) file.
+
+```yaml
+  dependencies:
+    flutter:
+      sdk: flutter
+    date_time_picker_tr:
+```
+
+### How to use
+
+```dart
+/*
+    Here we have minDate , maxDate and initialDate
+*/
+DatePicker(
+    maxDate: DateTime.parse('2020-10-13'),
+    minDate: DateTime.parse('1980-10-13'),
+    initialDate: DateTime.parse('2019-09-30'),
+    onChangedDate: (dateTime) => print(dateTime),
+    overlayColor: Colors.grey,
+    backgroundColor: Colors.black,
+    textColor: Colors.white,
+    height: 300.0,
+    width: 100.0,
+),
+```
+
+
 ## Getting Started
 
 This project is a starting point for a Dart
