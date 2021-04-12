@@ -3,15 +3,15 @@
 A new Flutter package project.
 
 ## Screenshots
-<img src="ss1.png" height="300em"/>
+<img src="ss1.png" height="300em" />
 
 ## Usage
 
-[Example](https://github.com/iampawan/Flutter-Walkthrough/blob/master/example/example_app.dart)
+[Example](https://github.com/taylanyildiz/date_time_picker_tr/tree/main/example/example.dart)
 
 To use this package :
 
-* add the dependency to your [pubspec.yaml](https://github.com/iampawan/Flutter-Walkthrough/blob/master/pubspec.yaml) file.
+* add the dependency to your [pubspec.yaml](https://github.com/taylanyildiz/date_time_picker_tr/blob/main/pubspec.yaml) file.
 
 ```yaml
   dependencies:
