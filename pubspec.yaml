@@ -1,7 +1,8 @@
 name: date_time_picker_tr
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+author: taylanyildz<taylanyildz@outlook.com>
+homepage: https://github.com/taylanyildiz/date_time_picker_tr.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
