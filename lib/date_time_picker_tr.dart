@@ -147,6 +147,15 @@ class _DatePickerState extends State<DatePicker> {
   }
 
   @override
+  void dispose() {
+    // TODO: implement dispose
+    super.dispose();
+    _controllerDay.dispose();
+    _controllerMoth.dispose();
+    _controllerYear.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return Stack(
       alignment: Alignment.center,
