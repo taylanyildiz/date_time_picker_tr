@@ -3,7 +3,7 @@
 A new Flutter package project.
 
 ## Screenshots
-<img src="ss1.png" height="300em" />
+<img src="ss1.png" height="300" />
 
 ## Usage
 
